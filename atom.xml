@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-25T07:42:29.646Z</updated>
+  <updated>2016-07-25T08:38:55.581Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/07/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0(Hello%20world%E9%99%A4%E5%A4%96)/"/>
+    <id>http://yoursite.com/2016/07/25/第一篇文章(Hello world除外)/</id>
+    <published>2016-07-25T08:38:55.581Z</published>
+    <updated>2016-07-25T08:38:55.581Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇文章-Hello-world除外"><a href="#第一篇文章-Hello-world除外" class="headerlink" title="第一篇文章(Hello world除外)"></a>第一篇文章(Hello world除外)</h1><p>测试</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;第一篇文章-Hello-world除外&quot;&gt;&lt;a href=&quot;#第一篇文章-Hello-world除外&quot; class=&quot;headerlink&quot; title=&quot;第一篇文章(Hello world除外)&quot;&gt;&lt;/a&gt;第一篇文章(Hello world除外)&lt;/h1&gt;&lt;p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
